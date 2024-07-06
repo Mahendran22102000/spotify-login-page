@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: #121212;
+}
+a{
+    display: inline-block;
+}
+.logo{
+    margin-top: 40px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.logo sup{
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 2px;
+}
+.container{
+   width:400px;
+    margin:0 auto;
+}
+.container h1{
+color:white;
+font-size: 45px;
+font-weight: bold;
+margin-top: 20px;
+margin-bottom: 40px;
+}
+.container label{
+    color:white;
+    font-weight: bold;
+    font-size: 14px;   
+}
+.container input{
+    width:340px;
+    padding:15px 15px;
+    background-color: #121212;
+    border:1px solid gray;
+    font-size: 15px;
+    outline:none;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.container input:hover{
+    border: 1px solid white;
+}
+.container .use-mobile-phone-instead {
+    color:#1ED760;
+}
+.container .next{
+    background-color:#1ED760;
+    color:#121212;
+    padding: 15px 20px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    width:343px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.container .next:hover{
+    background-color: #18ed63;
+}
+.container span{
+    color:white;
+    font-weight: bold;
+    margin-left: 165px;
+    font-size: 14px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+.container .sign-up{
+    text-decoration: none;
+    color:white;
+    background-color: #121212;
+    width:343px;
+    padding:15px 20px;
+    border-radius: 30px;
+    border:1px solid gray;
+    margin-bottom:10px;
+    font-weight: bold;
+}
+.sign-up a{
+    margin-left: 60px;
+}
+
+.sign-up:hover{
+    border:1px solid white;
+}
+.or{
+    color:white;
+    font-size: 15px;
+    margin-left: 160px;
+    margin-bottom: 30px;
+}
+.container p{
+    color:gray;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.container a{
+    color:white;  
+     
+}
+.line{
+    width:340px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: 1px solid rgb(33, 32, 32);
+}
+
+
+
+
+
+
+
+
+
+
